@@ -1,0 +1,94 @@
+/* 
+    Created on : 03-May-2019, 18:06:33
+    Author     : keishahunt
+*/
+
+body {
+    font-family: 'Kalam', cursive;
+    text-align: center;
+}
+
+/*slider css*/
+.slidecontainer {
+  width: 100%;  /* Width of the outside container */
+}
+
+/* The slider itself */
+.slider {
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  width: 100%; /* Full-width */
+  height: 5px; /* Specified height */
+  background: #B1DBEB; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%; 
+  background: #9869CA;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: purple;
+  cursor: pointer;
+}
+
+ /*all css for programme view page*/
+ 
+/*css for programme card header*/
+.feeling {
+    color: red;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+/*css for programme cards*/
+.card {
+
+   align-content: center;
+   width: 13rem;
+    border: 11px outset rgba(28,110,164,0.38);
+    border-radius: 9px;
+}
+
+.card:hover {
+       text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.card-img-top {
+   opacity: 0.7;
+   filter: Alpha(opacity=50);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.card-img-top:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.programmes {
+      min-height: 20em;
+      max-height: 20em;
+      overflow: auto;
+}
+
+

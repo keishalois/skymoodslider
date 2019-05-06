@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmeList>
+	    <programme id="1">
+            <name>Let the Right One In</name>
+            <img_path>views/images/scared/1.jpg</img_path>
+            <mood>scared</mood>
+            <description>Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.</description>
+    	</programme>
+	    <programme id="2">
+            <name>A Quiet Place</name>
+            <img_path>views/images/scared/2.jpg</img_path>
+            <mood>scared</mood>
+            <description>In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.</description>
+    	</programme>
+	    <programme id="3">
+            <name>Insidious</name>
+            <img_path>views/images/scared/3.jpg</img_path>
+            <mood>scared</mood>
+            <description>A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.</description>
+    	</programme>
+	    <programme id="4">
+            <name>Pet Sematary</name>
+            <img_path>views/images/scared/4.jpg</img_path>
+            <mood>scared</mood>
+            <description>Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new home.</description>
+    	</programme>
+	    <programme id="5">
+            <name>Us</name>
+            <img_path>views/images/scared/5.jpg</img_path>
+            <mood>scared</mood>
+            <description>A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.</description>
+    	</programme>
+	    <programme id="6">
+            <name>John Wick</name>
+            <img_path>views/images/fearless/6.jpg</img_path>
+            <mood>fearless</mood>
+            <description>An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.</description>
+    	</programme>
+	    <programme id="7">
+            <name>The Terminator</name>
+            <img_path>views/images/fearless/7.jpg</img_path>
+            <mood>fearless</mood>
+            <description>A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.</description>
+    	</programme>
+	    <programme id="8">
+            <name>Die Hard</name>
+            <img_path>views/images/fearless/8.jpg</img_path>
+            <mood>fearless</mood>
+            <description>An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.</description>
+    	</programme>
+	    <programme id="9">
+            <name>Alien</name>
+            <img_path>views/images/fearless/9.jpg</img_path>
+            <mood>fearless</mood>
+            <description>After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.</description>
+    	</programme>
+	    <programme id="10">
+            <name>Taken</name>
+            <img_path>views/images/fearless/10.jpg</img_path>
+            <mood>fearless</mood>
+            <description>A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.</description>
+    	</programme>
+        <programme id="11">
+            <name>La La Land</name>
+            <img_path>views/images/happy/11.jpg</img_path>
+            <mood>happy</mood>
+            <description>While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.</description>
+        </programme>
+        <programme id="12">
+            <name>Enchanted</name>
+            <img_path>views/images/happy/12.jpg</img_path>
+            <mood>happy</mood>
+            <description>A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil queen, where she falls in love with a lawyer.</description>
+        </programme>
+        <programme id="13">
+            <name>Elf</name>
+            <img_path>views/images/happy/13.jpg</img_path>
+            <mood>happy</mood>
+            <description>After discovering he is a human, a man raised as an elf at the North Pole decides to travel to New York City to locate his real father.</description>
+        </programme>
+        <programme id="14">
+            <name>Dirty Dancing</name>
+            <img_path>views/images/happy/14.jpg</img_path>
+            <mood>happy</mood>
+            <description>Spending the summer at a Catskills resort with her family, Frances Baby Houseman falls in love with the camp's dance instructor, Johnny Castle.</description>
+        </programme>
+        <programme id="15">
+            <name>Crazy, Stupid, Love</name>
+            <img_path>views/images/happy/15.jpg</img_path>
+            <mood>happy</mood>
+            <description>A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.</description>
+        </programme>
+        <programme id="16">
+            <name>Silver Linings Playbook</name>
+            <img_path>views/images/sad/16.jpg</img_path>
+            <mood>sad</mood>
+            <description>After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.</description>
+        </programme>
+        <programme id="17">
+            <name>One Day</name>
+            <img_path>views/images/sad/17.jpg</img_path>
+            <mood>sad</mood>
+            <description>After spending the night together on the night of their college graduation Dexter and Emma are shown each year on the same date to see where they are in their lives. They are sometimes together, sometimes not, on that day.</description>
+        </programme>
+        <programme id="18">
+            <name>The Pianist</name>
+            <img_path>views/images/sad/18.jpg</img_path>
+            <mood>sad</mood>
+            <description>A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.</description>
+        </programme>
+        <programme id="19">
+            <name>Ghost</name>
+            <img_path>views/images/sad/19.jpg</img_path>
+            <mood>sad</mood>
+            <description>After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.</description>
+        </programme>
+        <programme id="20">
+            <name>A Star Is Born</name>
+            <img_path>views/images/sad/20.jpg</img_path>
+            <mood>sad</mood>
+            <description>A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.</description>
+        </programme>
+        <programme id="21">
+            <name>The Social Network</name>
+            <img_path>views/images/calm/21.jpg</img_path>
+            <mood>calm</mood>
+            <description>Harvard student Mark Zuckerberg creates the social networking site. That would become known as Facebook but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.</description>
+        </programme>
+        <programme id="22">
+            <name>Amelie</name>
+            <img_path>views/images/calm/22.jpg</img_path>
+            <mood>calm</mood>
+            <description>Amelie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.</description>
+        </programme>
+        <programme id="23">
+            <name>The Internship</name>
+            <img_path>views/images/calm/23.jpg</img_path>
+            <mood>calm</mood>
+            <description>Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.</description>
+        </programme>
+        <programme id="24">
+            <name>Before Sunrise</name>
+            <img_path>views/images/calm/24.jpg</img_path>
+            <mood>calm</mood>
+            <description>A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.</description>
+        </programme>
+        <programme id="25">
+            <name>500 Days of Summer</name>
+            <img_path>views/images/calm/25.jpg</img_path>
+            <mood>calm</mood>
+            <description>An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her.</description>
+        </programme>
+        <programme id="26">
+            <name>Gone Girl</name>
+            <img_path>views/images/agitated/26.jpg</img_path>
+            <mood>agitated</mood>
+            <description>With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.</description>
+        </programme>
+        <programme id="27">
+            <name>Ex Machina</name>
+            <img_path>views/images/agitated/27.jpg</img_path>
+            <mood>agitated</mood>
+            <description>A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.</description>
+        </programme>
+        <programme id="28">
+            <name>The Lobster</name>
+            <img_path>views/images/agitated/28.jpg</img_path>
+            <mood>agitated</mood>
+            <description>In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.</description>
+        </programme>
+        <programme id="29">
+            <name>Black Swan</name>
+            <img_path>views/images/agitated/29.jpg</img_path>
+            <mood>agitated</mood>
+            <description>A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's Swan Lake.</description>
+        </programme>
+        <programme id="30">
+            <name>Shutter Island</name>
+            <img_path>views/images/agitated/30.jpg</img_path>
+            <mood>agitated</mood>
+            <description>In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane.</description>
+        </programme>
+        <programme id="31">
+            <name>Mean Girls</name>
+            <img_path>views/images/tired/31.jpg</img_path>
+            <mood>tired</mood>
+            <description>Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.</description>
+        </programme>
+        <programme id="32">
+            <name>The Devil Wears Prada</name>
+            <img_path>views/images/tired/32.jpg</img_path>
+            <mood>tired</mood>
+            <description>A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.</description>
+        </programme>
+        <programme id="33">
+            <name>The Holiday</name>
+            <img_path>views/images/tired/33.jpg</img_path>
+            <mood>tired</mood>
+            <description>Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.</description>
+        </programme>
+        <programme id="34">
+            <name>Legally Blonde</name>
+            <img_path>views/images/tired/34.jpg</img_path>
+            <mood>tired</mood>
+            <description>Elle Woods, a fashionable sorority queen is dumped by her boyfriend. She decides to follow him to law school, while she is there she figures out that there is more to her than just looks.</description>
+        </programme>
+        <programme id="35">
+            <name>Clueless</name>
+            <img_path>views/images/tired/35.jpg</img_path>
+            <mood>tired</mood>
+            <description>A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.</description>
+        </programme>
+        <programme id="36">
+            <name>Catch Me If You Can</name>
+            <img_path>views/images/awake/36.jpg</img_path>
+            <mood>awake</mood>
+            <description>A seasoned FBI agent pursues Frank Abagnale Jr. who, before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and a legal prosecutor.</description>
+        </programme>
+        <programme id="37">
+            <name>Shoplifters</name>
+            <img_path>views/images/awake/37.jpg</img_path>
+            <mood>awake</mood>
+            <description>A family of small-time crooks take in a child they find outside in the cold.</description>
+        </programme>
+        <programme id="38">
+            <name>Inception</name>
+            <img_path>views/images/awake/38.jpg</img_path>
+            <mood>awake</mood>
+            <description>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.</description>
+        </programme>
+        <programme id="39">
+            <name>Dallas Buyers Club</name>
+            <img_path>views/images/awake/39.jpg</img_path>
+            <mood>awake</mood>
+            <description>In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.</description>
+        </programme>
+        <programme id="40">
+            <name>Hidden Figures</name>
+            <img_path>views/images/awake/40.jpg</img_path>
+            <mood>awake</mood>
+            <description>The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.</description>
+        </programme>
+</programmeList>
