@@ -1,5 +1,5 @@
 # Sky Moodslider Application 
-<b>Sky Moodslider</b> - unattended coding test for the Sky Software Engineering Academy Developer Graduate Scheme
+<b>Sky Moodslider</b>
 
 Author - Keisha Hunt
 <br>Email - keisha.hunt93@hotmail.com
